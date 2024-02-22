@@ -7,12 +7,12 @@ Welcome to my GitHub profile! I'm thrilled to connect with fellow tech enthusias
 - Graduated with a solid academic background in electronics engineering from the Indian Institute of Technology (IIT) BHU in 2020.
 
 💼 **Professional Background**
-- Contributed significantly to Samsung's research and development projects as a Software Engineer for nearly three years.
+- Contributed significantly to Samsung's research and development projects as a Software Engineer for three years.
 - Co-authored three research papers and filed four patents.
 - Topics explored include:
   - Optical image stabilization
-  - Photography rules
-  - Audio equalization
+  - Image enhancement
+  - Hyperlapse video stablization
   - Macrophotography
 
 <!--
