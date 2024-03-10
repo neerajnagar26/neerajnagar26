@@ -40,7 +40,13 @@ I am always eager to explore opportunities where my expertise and passion can ad
 
 ---
 *Note: This README is intended to provide a brief overview of my professional background and areas of expertise. For more detailed information or inquiries, please don't hesitate to contact me.*
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/neerajnagar26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neerajnagar26" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neerajnagar26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neerajnagar26" height="30" width="40" /></a>
+<a href="https://www.instagram.com/neeraj_nagar26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neeraj_nagar26" height="30" width="40" /></a>
+<a href="https://medium.com/@neerajnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@neerajnagar" height="30" width="40" /></a>
+<a href="https://leetcode.com/neerajnagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neerajnagar" height="30" width="40" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-NeerajNagar-blue)](https://www.linkedin.com/in/neerajnagar26/)
-[![Instagram](https://img.shields.io/badge/Instagram-neeraj__nagar26-orange)](https://www.instagram.com/neeraj_nagar26/)
 
