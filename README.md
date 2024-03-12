@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm thrilled to connect with fellow tech enthusias
 I am always eager to explore opportunities where my expertise and passion can add value to your team and your goals. Together, we can shape the future of technology. Feel free to reach out, and let's connect!
 
 ---
-*Note: This README is intended to provide a brief overview of my professional background and areas of expertise. For more detailed information or inquiries, please don't hesitate to contact me.*
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/neerajnagar26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neerajnagar26" height="30" width="40" /></a>
