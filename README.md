@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm thrilled to connect with fellow tech enthusias
 
 🎓 **About Me**
 - Graduate Research Student at the University of Waterloo, pursuing Master's degree in Computer Software Engineering.
-- Graduated with a solid academic background in electronics engineering from the Indian Institute of Technology (IIT) BHU in 2020.
+- Graduated with a academic background in electronics engineering from the Indian Institute of Technology (IIT) BHU in 2020.
 
 💼 **Professional Background**
 - Contributed significantly to Samsung's research and development projects as a Software Engineer for three years.
