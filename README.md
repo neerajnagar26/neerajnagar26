@@ -11,6 +11,12 @@ Welcome to my GitHub profile! I'm thrilled to connect with fellow tech enthusias
 - Co-authored three research papers and filed four patents.
 
 
+<!--[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajnagar26&show_icons=true&theme=dark)](https://github.com/neerajnagar26/)
+-->
+
+[![Neeraj's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=neerajnagar&theme=Dark)](https://leetcode.com/neerajnagar/)
+
+
 ## Let's Connect!
 
 I am always eager to explore opportunities where my expertise and passion can add value to your team and your goals. Together, we can shape the future of technology. Feel free to reach out, and let's connect!
