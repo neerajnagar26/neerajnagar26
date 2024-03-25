@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I'm thrilled to connect with fellow tech enthusias
 
 <!--[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajnagar26&show_icons=true&theme=dark)](https://github.com/neerajnagar26/)
 -->
-
+<!--
 [![Neeraj's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=neerajnagar&theme=Dark)](https://leetcode.com/neerajnagar/)
-
+-->
 
 ## Let's Connect!
 
