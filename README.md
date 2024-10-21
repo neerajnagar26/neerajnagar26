@@ -1,14 +1,14 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm thrilled to connect with fellow tech enthusiasts and innovators like you. Let me take you on a quick tour of who I am and what I bring to the table.
+Welcome to my GitHub! I'm excited to connect with fellow tech enthusiasts and innovators. Here’s a bit about me:
 
 🎓 **About Me**
-- Graduate Research Student at the University of Waterloo, pursuing Master's degree in Computer Software Engineering.
-- Graduated with a academic background in electronics engineering from the Indian Institute of Technology (IIT) BHU in 2020.
+- Graduate Research Student at the University of Waterloo, pursuing a Master's in Computer Software Engineering.
+- Graduated with an academic background in electronics engineering from the Indian Institute of Technology (IIT) BHU in 2020.
 
 💼 **Professional Background**
-- Contributed significantly to Samsung's research and development projects as a Software Engineer for three years.
-- Co-authored three research papers and filed four patents.
+- 3 years as a Software Engineer at Samsung R&D India, contributing to cutting-edge projects in the mobile camera domain.
+- Co-authored 3 research papers and filed 4 patents.
 
 
 <!--[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajnagar26&show_icons=true&theme=dark)](https://github.com/neerajnagar26/)
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm thrilled to connect with fellow tech enthusias
 
 ## Let's Connect!
 
-I am always eager to explore opportunities where my expertise and passion can add value to your team and your goals. Together, we can shape the future of technology. Feel free to reach out, and let's connect!
+I'm always open to collaboration and new opportunities. Let's shape the future of technology together! Feel free to reach out:
 
 ---
 <h3 align="center">Connect with me:</h3>
