@@ -28,7 +28,6 @@ I'm always open to collaboration and new opportunities. Let's shape the future o
 <a href="https://www.linkedin.com/in/neerajnagar26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neerajnagar26" height="30" width="40" /></a>
 <a href="https://www.instagram.com/neeraj_nagar26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neeraj_nagar26" height="30" width="40" /></a>
 <a href="https://medium.com/@neerajnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@neerajnagar" height="30" width="40" /></a>
-<a href="https://leetcode.com/neerajnagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neerajnagar" height="30" width="40" /></a>
+<a href="https://leetcode.com/nnagar26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neerajnagar" height="30" width="40" /></a>
 </p>
-
 
